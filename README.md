@@ -30,6 +30,8 @@
 
 ###
 
+<p alighn="left">https://faizaalfa.github.io/portofolio/</p>
+
 <p align="left">I'm Faiza Alfagading S. from Computer Science at Brawijaya University, Indonesia<br><br>- 📚 I'm currently learning C, Python, and Linux<br>- ⚙️ CTF player and Interest in Cyber ​​Security</p>
 
 ###
